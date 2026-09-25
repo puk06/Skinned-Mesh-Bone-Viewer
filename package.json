@@ -1,0 +1,14 @@
+{
+    "name": "net.puk06.skinned-mesh-bone-viewer",
+    "displayName": "Skinned Mesh Bone Viewer",
+    "version": "1.0.0",
+    "vpmDependencies": {},
+    "author": {
+        "name": "Pukorufu",
+        "url": "https://github.com/puk06",
+        "email": "pukorufu@pukosrv.net"
+    },
+    "unity": "2022.3",
+    "description": "A tool to view the bones used by a Skinned Mesh Renderer in Unity.",
+    "url": "https://github.com/puk06/Skinned-Mesh-Bone-Viewer/releases/download/v1.0.0/net.puk06.skinned-mesh-bone-viewer-v1.0.0.zip?"
+}
